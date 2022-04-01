@@ -14,3 +14,22 @@ cat started to learn git on April 1st 2th
 * git add file_name
 * git commit -m "what has been changed  "
 * git push
+
+
+
+
+##git status
+#git
+*git
+*git
+*git
+
+
+
+
+
+
+
+
+
+
