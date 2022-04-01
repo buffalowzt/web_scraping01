@@ -9,11 +9,13 @@ Author Blue Buffalo
 cat started to learn git on April 1st 2th
 
 ## git commnads list
-# git status            
+```
+* git status            
 * vi file_name
 * git add file_name
 * git commit -m "what has been changed  "
 * git push
+```
 
 
 
