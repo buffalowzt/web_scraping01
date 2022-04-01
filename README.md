@@ -18,7 +18,7 @@ cat started to learn git on April 1st 2th
 
 
 
-## git status
+## git**status**
 # git
 * git
 * git
