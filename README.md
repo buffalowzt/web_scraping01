@@ -18,11 +18,11 @@ cat started to learn git on April 1st 2th
 
 
 
-##git status
-#git
-*git
-*git
-*git
+## git status
+# git
+* git
+* git
+* git
 
 
 
