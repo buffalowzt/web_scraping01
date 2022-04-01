@@ -7,4 +7,10 @@ Author Blue Buffalo
 
 ## cat_tiger joined the project on Apr 1st 2022
 cat started to learn git on April 1st 2th
-#git status            vi ......                git add ......                           git commit -m "   "         git push
+
+## git commnads list
+# git status            
+* vi file_name
+* git add file_name
+* git commit -m "what has been changed  "
+* git push
