@@ -1,3 +1,7 @@
+# Author - Cat
+# Written on Apr 3 2022
+# Test your typing speed
+
 import time, datetime, random
 
 messages = [
